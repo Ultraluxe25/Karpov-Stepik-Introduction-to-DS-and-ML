@@ -1,1 +1,1 @@
-# Karpov Stepik Introduction in DS and ML
+# Karpov Stepik Introduction to DS and ML
